@@ -3,9 +3,11 @@
 This is a project built to create a recommendation system for watching streams on Twitch. Currently I have written both the backend and frontend, but am having trouble linking it together. These are the Postman tests of the backend to illustrate how it works.
 
 Registering a user:
+
 ![Screen Shot 2022-09-21 at 3 25 30 PM](https://user-images.githubusercontent.com/93807228/191621523-7c733ce7-3e2f-4ac1-9080-e2e6cafddf1c.png)
 
 Logging in as user:
+
 ![Screen Shot 2022-09-21 at 3 25 46 PM](https://user-images.githubusercontent.com/93807228/191621584-55d14521-13b9-4a85-8ae7-c82fc1f0e8c3.png)
 
 Getting favorite items as a new user:
